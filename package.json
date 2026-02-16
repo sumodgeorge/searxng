@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "eslint": "^9.17.0",
+    "eslint": "^10.0.0",
     "pyright": "^1.1.391"
   },
   "scripts": {
